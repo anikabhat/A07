@@ -52,8 +52,9 @@ main h1 {
 	border: 3px double #931420;
 	border-radius: 10px;
 	box-shadow: 3px 3px;
-	padding: .5em 0 .5em 2.5em;
-	margin-bottom: .50em;
+	padding: .2em 0 .2em 2em;
+	margin-bottom: 1em;
+	margin-top: 1em;
 	background-color: white;
 }
 main h2 {
